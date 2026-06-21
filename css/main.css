@@ -1,0 +1,31 @@
+/* تنسيق الصفحة بالكامل */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+/* تنسيق العنوان الرئيسي */
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    font-size: 40px;
+}
+
+/* تنسيق الفقرات */
+p {
+    color: #34495e;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* تنسيق زر مثلاً */
+.button {
+    background-color: #3498db;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
